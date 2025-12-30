@@ -1,2 +1,2 @@
-# .github
-Open Source mods designed to work together in a modpack
+# MelModsa
+Open Source minecraft mods designed to work together in a modpack
